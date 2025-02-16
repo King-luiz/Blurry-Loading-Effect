@@ -57,9 +57,9 @@ Blurry Loading is a simple yet visually appealing project that applies a smooth 
 - Modify the **loading speed** by tweaking the interval timing in `setInterval(blurring, 30);`
 
 ## 📧 Contact Information
--📩 Email: Mureithilewins@gmail.com. 
--📞 Phone: +254-112-876-340.
+-📩 Email: Mureithilewins@gmail.com
+-📞 Phone: +254-112-876-340
 
----
+```
 **📝 License:** MIT License. Free to use and modify! Happy coding! 🚀
 
